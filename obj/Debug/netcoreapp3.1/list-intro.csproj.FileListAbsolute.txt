@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\list-intro\obj\Debug\netcoreapp3.1\list-intro.csprojAssemblyReference.cache
+C:\Users\phili\workspace\list-intro\obj\Debug\netcoreapp3.1\list-intro.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\list-intro\obj\Debug\netcoreapp3.1\list-intro.AssemblyInfo.cs
+C:\Users\phili\workspace\list-intro\bin\Debug\netcoreapp3.1\list-intro.exe
+C:\Users\phili\workspace\list-intro\bin\Debug\netcoreapp3.1\list-intro.deps.json
+C:\Users\phili\workspace\list-intro\bin\Debug\netcoreapp3.1\list-intro.runtimeconfig.json
+C:\Users\phili\workspace\list-intro\bin\Debug\netcoreapp3.1\list-intro.runtimeconfig.dev.json
+C:\Users\phili\workspace\list-intro\bin\Debug\netcoreapp3.1\list-intro.dll
+C:\Users\phili\workspace\list-intro\bin\Debug\netcoreapp3.1\list-intro.pdb
+C:\Users\phili\workspace\list-intro\obj\Debug\netcoreapp3.1\list-intro.dll
+C:\Users\phili\workspace\list-intro\obj\Debug\netcoreapp3.1\list-intro.pdb
